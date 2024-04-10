@@ -44,6 +44,12 @@ Follow these steps to set up and run the Facebook Clone project on your local ma
    ```
    Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the Facebook Clone.
 
+## Images
+
+| Home Page | Profile Page |
+| ----- | ----- |
+| ![img1](https://github.com/TarushGupta23/storage/blob/main/reactJs/reactJsHome.png) | ![img1](https://github.com/TarushGupta23/storage/blob/main/reactJs/reactJsProfile.png) |
+
 ## Learn Reach.js
 
 If you're new to Reach.js, the Facebook Clone project is an excellent way to learn and practice key concepts such as component-based development, state management, and dynamic rendering. Dive into the code, explore the components, and make modifications to understand how Reach.js works.
